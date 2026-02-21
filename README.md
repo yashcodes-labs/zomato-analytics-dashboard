@@ -80,3 +80,5 @@ A Power BI dashboard was created to convert raw data into meaningful business in
 This project demonstrates how business intelligence tools can help food delivery platforms analyze performance, improve customer satisfaction, and optimize marketplace strategy.
 
 The dashboard can support decision making for marketing, pricing, and restaurant onboarding strategies.
+Images: <img width="643" height="367" alt="Zomato_Dashboard" src="https://github.com/user-attachments/assets/c924bdcb-e8cd-48bc-8ad6-dee3334d0880" />
+
